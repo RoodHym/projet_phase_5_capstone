@@ -19,4 +19,20 @@ Nous allons testes trois modèles de machine learning:
 - Random Forest Regressor
 - Gradient Boosting Regressor
 
+# Recommandations Strategiques
+Actions Prioritaires :
+Cartographier les points chauds de pollution plastique:
+	Utiliser les résultats du modèle pour identifier les 	pays/régions ayant les plus fortes valeurs de «Déchets 	Mal Gérés par habitant».	L’objectif est de concentrer les efforts de collecte et de 	sensibilisation.
+   
+Lancer des programmes de tri à la source dans les zones urbaines:
+	 Former les ménages et les entreprises à trier le 	plastique selon sa nature. 
+	 Le modèle montre que la part de déchets recyclés est 	un facteur déterminant de la réduction du plastique mal 	géré.
+    
+Investir dans la recherche et l’innovation:
+	Financer des projets d’IA et de data science pour la 	prédiction de la pollution plastique et l’optimisation 	du tri automatique (computer vision, capteurs).
+	Utiliser des modèles prédictifs plus performants (Random Forest, Gradient Boosting) pour anticiper les pics de déchets mal gérés.
+
+
+
+
 
