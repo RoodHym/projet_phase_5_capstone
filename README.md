@@ -22,7 +22,7 @@ Caractéristiques :
 •	Courbe exponentielle marquée
 <img width="944" height="514" alt="image" src="https://github.com/user-attachments/assets/0e3f88be-d5e7-4054-b6db-5ca3e341c30c" />
 
-## Histogramme : Répartition par Pays
+## Histogramme : Répartition par Pays des déchets mal gérés/habitant/an
 Structure du Graphique :
 
 •	Axe X : kg de déchets mal gérés/habitant/an
