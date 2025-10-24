@@ -13,6 +13,17 @@ Nous avons utiliser trois jeux de donnees:
 # Analyse exploratoire des données
 Nous allons analyser l’évolution de la production mondiale de plastique, évaluer l'efficacité de gestion des déchets par région, identifier les zones critiques de mauvaise gestion des déchets.
 
+## Graphique : Courbe d'Évolution Temporelle
+
+Caractéristiques :
+
+•	Axe Y : Millions de tonnes (échelle 0-500)
+•	Axe X : Période 1950-2019
+•	Courbe exponentielle marquée
+<img width="944" height="514" alt="image" src="https://github.com/user-attachments/assets/0e3f88be-d5e7-4054-b6db-5ca3e341c30c" />
+
+
+
 # Modelisation predictive
 Nous allons testes trois modèles de machine learning:
 - Régression Linéaire
